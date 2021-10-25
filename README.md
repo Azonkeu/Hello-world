@@ -3,6 +3,10 @@
 In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
 
 ### General requirements
+* Create a Github repository.
+* Set up the project locally by cloning the repository to your local machine.
+* Create a feature branch.
+* Configure the upstream remote value.
 
 Once you finish your project, double-check to make sure your repo is ready:
 
