@@ -19,6 +19,7 @@ Once you finish your project, double-check to make sure your repo is ready:
 
 * Github: [@Azonkeu](https://github.com/Azonkeu)
 * LinkedIn: [@AzonkeuO](https://www.linkedin.com/in/azonkeu-ornela-88a14b172/)
+* Twitter: [AzonkeuO](https://twitter.com/AzonkeuO)
 
 
 ### Show your support
